@@ -9,7 +9,7 @@ SCRIPT_DATE="2024-05-10"
 INPUT_FILE=""
 OUTPUT_FILE="output.csv"
 DELIMITER=","  # Use ',' for CSV, '\t' for TSV
-ENCODED_FIELDS="JsiDbComment JsiDbEffect JsiDbSig"
+ENCODED_FIELDS="JsiDbComment JsiDbEffect JsiDbSigStr JsiDbSig"
 
 # Help function
 print_help() {
