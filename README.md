@@ -19,7 +19,7 @@ The `vcf_to_csv.sh` script simplifies the conversion of genomic data from VCF fi
 To use the script, you must provide the input VCF file and specify the output file name and delimiter. The script usage is as follows:
 
 ```bash
-./vcf_to_csv.sh -i <input_file> -o <output_file> -d <delimiter>
+./vcf_converter.sh -i <input_file> -o <output_file> -d <delimiter>
 ```
 
 ### Parameters:
